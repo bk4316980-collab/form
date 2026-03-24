@@ -4,7 +4,7 @@
 <body>
   
 <h1>sign up from </h1>
-<from id = "signup from">
+<form id = "signup from">
 
 <div class = "field">
 <lable> Name:</label><br>
