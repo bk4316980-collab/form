@@ -7,7 +7,7 @@
 <form id = "signup from">
 
 <div class = "field">
-<lable> Name:</label><br>
-<input id = "name" type = "treat" placeholder = "Your name">
+<label> Name:</label><br>
+<input id = "name" type = "text" placeholder = "Your name">
 <p id = "nameError" class = "error"></p>
 </div>
